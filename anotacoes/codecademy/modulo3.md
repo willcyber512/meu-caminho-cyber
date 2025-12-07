@@ -1,4 +1,4 @@
-Módulo 3 — Ameaças Cibernéticas
+Ameaças Cibernéticas   
 O que aprendi:
 
 O conceito da Tríade CIA (Confidencialidade, Integridade, Disponibilidade).
@@ -11,7 +11,7 @@ Ataques comuns a aplicações web (SQLi, XSS, CSRF).
 
 O que são ataques DDoS e vulnerabilidades zero-day.
 
-Explicações rápidas
+Explicações rápidas:
 
 Tríade CIA: modelo base para avaliar impacto de qualquer ataque.
 
