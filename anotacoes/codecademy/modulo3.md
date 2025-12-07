@@ -29,7 +29,7 @@ DDoS: indisponibilidade causada por sobrecarga de tráfego.
 
 Zero-day: falha ainda sem correção conhecida.
 
-Como isso aparece no mundo real / SOC
+Como isso aparece no mundo real / SOC:
 
 Phishing gera alertas de e-mail suspeito e tentativas de login anômalas.
 
@@ -41,7 +41,7 @@ CSRF está ligado a ações legítimas executadas fora do padrão.
 
 DDoS gera picos abruptos de tráfego e indisponibilidade de serviços.
 
-O que ainda preciso reforçar
+O que ainda preciso reforçar:
 
 Como detectar esses ataques em logs reais.
 
